@@ -6,6 +6,12 @@ public class Test {
 		System.out.println("hello");
 			System.out.println("hello");
 				System.out.println("hello");
+			sayHi();
+		
+	}
+	
+	public static void sayHi(){
+		System.out.println("Hi Everyone");
 		
 	}
 
